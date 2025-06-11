@@ -1,0 +1,5 @@
+[
+  { "id": "sku1", "name": "Red Shirt", "sales": 120, "returnPct": 10, "contentScore": 85 },
+  { "id": "sku2", "name": "Blue Jeans", "sales": 80, "returnPct": 5, "contentScore": 90 },
+  { "id": "sku3", "name": "Green Jacket", "sales": 60, "returnPct": 12, "contentScore": 70 }
+]
